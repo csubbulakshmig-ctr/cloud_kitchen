@@ -1,0 +1,6 @@
+{
+  "name": "Brindha Cloud Kitchen",
+  "description": "A modern, full-stack food ordering platform for Brindha Cloud Kitchen featuring fresh biryanis, South Indian meals, online cart, checkout, order tracking, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
